@@ -1,1 +1,2 @@
-# nfactorial-project-15January
+First project at nFactorial school (Web Intro)
+Simple Adaptive Website.
